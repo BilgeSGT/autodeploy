@@ -1,2 +1,2 @@
-# autodeploy
-Auto Deployment and VM Management tool for kvm
+# Bdeploy
+Bdeploy is deployment and management tool for kvm, proxmox and cloud providers
