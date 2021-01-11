@@ -14,7 +14,7 @@ An example config file is:
             "node": "KVM"
         },
         {
-            "ip": "192.168.1.1:8080",
+            "ip": "192.168.2.1:8080",
             "user": "root@pam",
             "pass": "Password123",
             "node": "KVM2"
