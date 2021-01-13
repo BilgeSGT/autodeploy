@@ -23,7 +23,7 @@ An example config file is:
 }`
 
 In this above example we have 2 nodes which are named KVM and KVM2.
-KVM has an IP 192.168.15.1 and KVM2 has an IP which is 192.168.14.1.
+KVM has an IP 192.168.2.1 and KVM2 has an IP which is 192.168.1.1.
 There are several functions that has been implemented already.
 There will be more functions to be added in this project.
 Implemented functions can be found below with examples using above config.
